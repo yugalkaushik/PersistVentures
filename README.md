@@ -1,7 +1,7 @@
 # 🌟 _Admin Dashboard - Completed Assignment_ 🌟
 
 Welcome to the **Admin Dashboard**! This project implements a functional and responsive admin dashboard for a social media platform, built using **Next.js**, **React Query**, and **Tailwind CSS**.
-
+*deployed at:* [website](https://persist-ventures-sage.vercel.app/)
 ---
 
 ## 📝 Project Overview
