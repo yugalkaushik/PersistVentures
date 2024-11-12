@@ -3,8 +3,6 @@ import { fetchDashboardData } from '../utils/api';
 import {
   AreaChart,
   Area,
-  Line,
-  LineChart,
   CartesianGrid,
   XAxis,
   YAxis,

@@ -11,7 +11,6 @@ import { fetchDashboardData } from '../utils/api';
 import UserManagement from '../components/UserManagement';
 import ContentModeration from '../components/ContentModeration';
 import Analytics from '../components/Analytics';
-import Head from 'next/head';
 
 export default function Dashboard() {
   const { data, isLoading, isError } = useQuery({
@@ -41,13 +40,6 @@ export default function Dashboard() {
 
   return (
     <div className="min-h-screen bg-[#F4EBE8] p-6 font-['Inter'] rounded-xl">
-      <Head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Days+One&display=swap"
-          rel="stylesheet"
-        />
-      </Head>
-
       <div className="flex flex-col md:flex-row justify-between items-center mb-8 bg-white bg-opacity-80 backdrop-blur-xl rounded-3xl p-8 shadow-lg">
         <h1 className="text-4xl font-extrabold bg-black bg-clip-text text-transparent font-days-one">
           Dashboard

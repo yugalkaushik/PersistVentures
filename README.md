@@ -1,4 +1,4 @@
-# 🌟 *Admin Dashboard - Completed Assignment* 🌟
+# 🌟 _Admin Dashboard - Completed Assignment_ 🌟
 
 Welcome to the **Admin Dashboard**! This project implements a functional and responsive admin dashboard for a social media platform, built using **Next.js**, **React Query**, and **Tailwind CSS**.
 
@@ -15,7 +15,6 @@ This project is a complete admin dashboard for a social media application. It al
 ## 🌟 Key Features
 
 1. 👤 **User Management**: View user activity, referrals, active users, and creators with real-time data.
-   
 2. 📝 **Content Moderation**: Monitor daily views, shares, comments, and posts.
 
 3. 📊 **Analytics**: Visualize user engagement metrics such as views, likes, shares, and private messages through interactive charts.
@@ -36,9 +35,7 @@ This project is a complete admin dashboard for a social media application. It al
 ## ✅ Requirements
 
 1. **📱 Responsive Design**: Ensure the dashboard is mobile-friendly and looks great on all devices.
-   
 2. **🌐 API Integration**: Fetch and display real-time data from the provided API using **React Query**.
-   
 3. **📄 Documentation**: Write clean, well-documented code and include a **README** with setup instructions and an overview of the project.
 
 ---
@@ -56,7 +53,7 @@ git clone https://github.com/yugalkaushik/PersistVentures.git
 ```bash
 cd PersistVentures
 npm install
-``` 
+```
 
 ### 3. Run the project:
 
