@@ -49,14 +49,17 @@ This project is a complete admin dashboard for a social media application. It al
 
 ```bash
 git clone https://github.com/yugalkaushik/PersistVentures.git
+```
 
 ### 2. Install dependencies:
 
 ```bash
 cd PersistVentures
 npm install
+``` 
 
 ### 3. Run the project:
 
 ```bash
 npm run dev
+```
